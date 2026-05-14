@@ -129,5 +129,5 @@ seaborn==0.13.2
 ## 📄 Entregáveis
 
 - `submissao_case.csv` — probabilidades de inadimplência para 12.275 cobranças
-- `datarisk_case_ds_junior.ipynb` — notebook reprodutível com toda a solução
+- `Modelo_inadimplencia.ipynb` — notebook reprodutível com toda a solução
 - `requirements.txt` — dependências com versões fixadas
