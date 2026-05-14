@@ -1,6 +1,5 @@
-# 📊 Modelo Preditivo de Inadimplência — Datarisk Case DS Júnior
+# 📊 Modelo Preditivo de Inadimplência
 
-Solução para o case técnico de Cientista de Dados Júnior da Datarisk.
 O objetivo é prever a probabilidade de inadimplência de cobranças mensais
 feitas a clientes, definida como pagamento realizado com **5 ou mais dias de atraso**.
 
