@@ -13,8 +13,10 @@ feitas a clientes, definida como pagamento realizado com **5 ou mais dias de atr
 │   ├── base_info.csv
 │   ├── base_pagamentos_desenvolvimento.csv
 │   └── base_pagamentos_teste.csv
-├── datarisk_case_ds_junior.ipynb   # Notebook principal
+├── Modelo_inadimplencia.ipynb      # Notebook principal
 ├── submissao_case.csv              # Previsões geradas
+├── relatorio.pdf
+├── inteligencia_negocios.pdf
 ├── requirements.txt                # Dependências
 └── README.md
 ```
