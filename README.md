@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 **2. Abrir o notebook**
 ```bash
-jupyter notebook datarisk_case_ds_junior.ipynb
+jupyter notebook Modelo_inadimplencia.ipynb
 ```
 
 **3. Executar todas as células de cima para baixo**
